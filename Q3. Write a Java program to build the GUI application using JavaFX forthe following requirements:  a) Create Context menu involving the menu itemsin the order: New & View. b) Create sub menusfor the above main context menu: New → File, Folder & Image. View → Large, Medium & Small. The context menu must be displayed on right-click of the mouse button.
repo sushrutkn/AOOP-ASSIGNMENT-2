@@ -30,7 +30,7 @@ ContextMenu contextMenu2 = new ContextMenu();
 //Creating the menu Itemsforthe context menu
 MenuItem item11 = new MenuItem("large");
 
-9
+
 
 MenuItem item21 = new MenuItem("medium");
 MenuItem item31 = new MenuItem("small");
